@@ -1,5 +1,5 @@
 {
-  "name": "fastify-gql-fork",
+  "name": "@inf1k/fastify-gql",
   "version": "5.0.0",
   "description": "Fastify GraphQL adapter",
   "main": "index.js",
@@ -54,5 +54,10 @@
   },
   "tsd": {
     "directory": "test/types"
+  },
+  "directories": {
+    "example": "examples",
+    "lib": "lib",
+    "test": "test"
   }
 }
